@@ -28,3 +28,8 @@ In summary, the operating system includes the alwaysrunning kernel, middleware f
 
 ![text](https://www.cs.csustan.edu/~john/Classes/CS3750/Notes/Chap01/1_02typclPC.jpg)
 
+
+the typical components of a personal computer: a bus, CPUs, primary memory, device controllers, and peripherals. An operating system is responsible for operating the peripherals by sending instructions to device controllers. Different device controllers have to be operated with their own special commands, so usually an OS has a separate section of code called a device driver, for interacting with each different kind of device controller.
+
+- **1.2.1 Interrupts**
+
