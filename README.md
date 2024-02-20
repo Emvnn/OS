@@ -7,6 +7,7 @@
 **A computer system can be divided roughly into four components: the hardware (computing resources), the operating system, the application programs, and a user.**
 
 # 1.1 What Operating Systems Do
+
 **Roughly speaking, a computing system consists of hardware, operating system, application programs, and a user.**
 
 
@@ -20,3 +21,10 @@
   - We may think of an OS as a collection of automatic functions that make using the hardware easier, safer, and more efficient.
   - Usually when computer science professionals refer to the operating system, they mean something called the kernel.
   - The study of operating systems is mostly about the study of kernels.
+    
+In summary, the operating system includes the alwaysrunning kernel, middleware frameworks that ease application development and provide features, and system programs that aid in managing the system while it is running. 
+
+# 1.2 Computer-System Organization
+
+![text](https://www.cs.csustan.edu/~john/Classes/CS3750/Notes/Chap01/1_01cmpnts.jpg)
+
