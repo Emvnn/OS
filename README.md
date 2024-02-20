@@ -26,5 +26,5 @@ In summary, the operating system includes the alwaysrunning kernel, middleware f
 
 # 1.2 Computer-System Organization
 
-![text](https://www.cs.csustan.edu/~john/Classes/CS3750/Notes/Chap01/1_01cmpnts.jpg)
+![text](https://www.cs.csustan.edu/~john/Classes/CS3750/Notes/Chap01/1_02typclPC.jpg)
 
