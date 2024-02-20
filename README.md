@@ -8,3 +8,5 @@ system is a major task, and it is important that the goals of the system be
 well defined before the design begins.
 Because an operating system is large and complex, it must be created piece by piece. Each of these pieces should be a well-delineated
 portion of the system, with carefully defined inputs, outputs, and functions.
+**A computer system can be divided roughly into four components: the hardware, the operating system, the application programs, and a user**
+!(https://www.cs.csustan.edu/~john/Classes/CS3750/Notes/Chap01/1_01cmpnts.jpg)
